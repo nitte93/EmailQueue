@@ -1,0 +1,11 @@
+        Fri, 11 Sep 2015 13:45:00 +0530 (IST)
+Date: Fri, 11 Sep 2015 13:45:00 +0530 (IST)
+From: abc14@gmail.com
+To: xyz1@gmail.com
+Message-ID: <310912546.131.1441959300755.JavaMail.NT035602@CERN-NT035602>
+Subject: Subject: Hello EmailQueue15
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Body: Hello! I am sending these mails using multithreading and javax mail api.
